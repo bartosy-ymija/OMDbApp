@@ -14,6 +14,16 @@ This project uses Carthage as a dependency manager. To install required dependen
 
 Run `OMDbApp` scheme.
 
+## Screenshots
+
+Movies list:
+
+![Movies list](./Screenshots/list.png)
+
+Movie details:
+
+![Movie details](./Screenshots/details.png)
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
