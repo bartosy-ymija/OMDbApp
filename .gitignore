@@ -1,0 +1,67 @@
+*.xcodeproj/*
+!*.xcodeproj/project.pbxproj
+!*.xcodeproj/xcshareddata
+
+*.lock
+
+# bundler
+/.bundle/
+!Gemfile.lock
+
+*~.nib
+
+## Build generated
+build/
+DerivedData/
+
+*.moved-aside
+
+## Various settings
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata
+
+## Other
+*.xccheckout
+*.moved-aside
+*.xcuserstate
+*.xcscmblueprint
+
+## Obj-C/Swift specific
+*.hmap
+*.ipa
+
+## Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+# Carthage
+Carthage/
+
+fastlane/report.xml
+fastlane/screenshots
+
+# OSX Temp
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# OSX Thumbnails
+._*
+
+# OSX Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# vim
+*.swp
+

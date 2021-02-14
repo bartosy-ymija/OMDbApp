@@ -1,0 +1,5 @@
+github "Quick/Nimble" "v9.0.0"
+github "Quick/Quick" "v3.1.2"
+github "ReactiveX/RxSwift" "5.1.1"
+github "RxSwiftCommunity/RxDataSources" "4.0.1"
+github "onevcat/Kingfisher" "6.1.0"
